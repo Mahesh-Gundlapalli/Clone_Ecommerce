@@ -50,9 +50,8 @@ This project is an e-commerce website layout that features a responsive design w
 
 - The footer is organized into multiple sections, each containing links and information relevant to the website.
 
-
-
-
+## Additional Notes
+  
 - **External Resources:** Ionicons are used for icons (such as search, menu, and social media), along with external scripts for Ionicons functionality.
 - **Animation:** The image slider uses CSS keyframe animations for smooth transitions between images.
 - **Responsive Design:** The current design is optimized for desktop users; further adjustments may be needed for mobile responsiveness.
